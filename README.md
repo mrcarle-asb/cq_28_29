@@ -1,0 +1,21 @@
+# CodingQuest Problems
+
+Problems originally from [CodingQuest](https://pbaumgarten.com/docs/codingchallenges/) by Paul Baumgarten.
+
+## Problem 28: Purchase tickets
+
+- **Folder:** `problem_28/`
+- **Round:** 2024 Challenge, Day 1
+
+## Problem 29: Broken firewall
+
+- **Folder:** `problem_29/`
+- **Round:** 2024 Challenge, Day 2
+
+## How to work on a problem
+
+1. Open the problem folder
+2. Read `problem.md` for the full problem description
+3. Edit `starter.py` — the input file is already loaded for you
+4. Run `python starter.py` to test your code
+5. When you have an answer, run `python check.py` to verify it
