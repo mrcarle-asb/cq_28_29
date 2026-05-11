@@ -2,6 +2,16 @@
 
 Problems originally from [CodingQuest](https://pbaumgarten.com/docs/codingchallenges/) by Paul Baumgarten.
 
+## Problem 18: Inventory check
+
+- **Folder:** `problem_18/`
+- **Round:** 2023 Challenge, Day 1
+
+## Problem 20: Tic tac toe
+
+- **Folder:** `problem_20/`
+- **Round:** 2023 Challenge, Day 3
+
 ## Problem 28: Purchase tickets
 
 - **Folder:** `problem_28/`
